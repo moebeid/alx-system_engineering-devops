@@ -6,3 +6,5 @@ display the contents list of current directory
 changes the working directory to users home directory
 **3-listfiles**
 display the contents list in long format
+**4-listmorefiles**
+display current directory contents including hidden files in long format
