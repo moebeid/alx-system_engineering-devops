@@ -4,3 +4,5 @@ print current working directory
 display the contents list of current directory
 **2-bring_me_home**
 changes the working directory to users home directory
+**3-listfiles**
+display the contents list in long format
